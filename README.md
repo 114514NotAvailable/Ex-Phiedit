@@ -1,6 +1,8 @@
 ## Ex:Phiedit  |  An efficient Phigros fanmade chart editing program based on Re:Phiedit 1.3.0
 ##### Advertisement video: https://www.bilibili.com/video/BV1aX4y1s71R
 
+After mimimix had stop updating this project for a very long time, I'm here to provide the next big update to Ex:Phiedit! 
+
 ## News: The new FPS config is now comming!!! (Bundled with XPE 4.0 Plus)
 ![image](https://github.com/sudo-000/Ex-Phiedit/assets/107282563/4bb55063-a87a-4162-8297-14239248bf28)
 
