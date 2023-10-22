@@ -3,6 +3,10 @@
 
 After mimimix had stop updating this project for a very long time, I'm here to provide the next big update to Ex:Phiedit! 
 
+Any questions? You can always find me in the Phigros Fanmade Discord: https://discord.gg/U5DRNGk8qV
+
+Nickname: @114514NotFound 
+
 ## News: The new chart merging tool is now comming!!! (Bundled with XPE 4.3)
 
 ## News: The new FPS config is now comming!!! (Bundled with XPE 4.0 Plus)
