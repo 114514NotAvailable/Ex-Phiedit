@@ -7,6 +7,10 @@ Any questions? You can always find me in the Phigros Fanmade Discord: https://di
 
 Nickname: @114514NotFound 
 
+## Tutorial: Apply FPS Config Permanently! 
+https://github.com/114514NotAvailable/Ex-Phiedit/assets/148523275/afd726ad-f9f4-40c8-aadf-c60609b4f1f0
+
+
 ## News: The new chart merging tool is now comming!!! (Bundled with XPE 4.3)
 
 ## News: The new FPS config is now comming!!! (Bundled with XPE 4.0 Plus)
