@@ -12,8 +12,12 @@ Unzip and replace the bitmaps in Resources\textures
 [RPE_Skin_For_ExPhiedit.zip](https://github.com/114514NotAvailable/Ex-Phiedit/files/13198539/RPE_Skin_For_ExPhiedit.zip)
 
 
+
 ## Tutorial: Apply FPS Config Permanently! 
 https://github.com/114514NotAvailable/Ex-Phiedit/assets/148523275/afd726ad-f9f4-40c8-aadf-c60609b4f1f0
+
+You can also use this pre-patched version if you're lazy: 
+[60FPS Pre-Patched](https://github.com/114514NotAvailable/Ex-Phiedit/files/13211134/ChartEditer_60FPS_PrePatched.zip)
 
 ## News: The new chart merging tool is now comming!!! (Bundled with XPE 4.3)
 
