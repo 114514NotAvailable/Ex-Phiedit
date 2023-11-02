@@ -7,11 +7,19 @@ Any questions? You can always find me in the Phigros Fanmade Discord: https://di
 
 Nickname: @114514NotFound 
 
+## IMPORTANT ANNOUNCEMENT!!! 
+
+To whomever used Ex:Phiedit before, please fully uninstall all previous versions now immediately and fully scan your PC with an antivirus software that you trust. I would suggest using Huorong internet security or Malware Bypass for this job. And again DO NOT USE WINDOWS DEFENDER NO MATTER WHAT! 
+
+I'm very sorry to announce that I've only realized recently that my computer has been infected with Virus/Jadtre.ax. Which had been infecting viewwindow.exe in Ex:Phiedit. 
+Many thanks to Happy_mimimix who discovered this and reported it to me. 
+
+I'm now publishing a new clean release, please switch to this one immediately if you want to keep using Ex:Phiedit. 
+At the same time, I will take down all previous releases of Ex:Phiedit because of this security issue.
+
 ## Original Re:Phiedit skinpack for Ex:Phiedit
 Unzip and replace the bitmaps in Resources\textures
 [RPE_Skin_For_ExPhiedit.zip](https://github.com/114514NotAvailable/Ex-Phiedit/files/13198539/RPE_Skin_For_ExPhiedit.zip)
-
-
 
 ## Tutorial: Apply FPS Config Permanently! 
 https://github.com/114514NotAvailable/Ex-Phiedit/assets/148523275/afd726ad-f9f4-40c8-aadf-c60609b4f1f0
